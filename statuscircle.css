@@ -14,15 +14,14 @@
 }
   
 #app-mount .wrapper-3t9DeA[style*="32"] rect {
-  width: 12px;
-  height: 12px;
+  width: 10px;
+  height: 10px;
   x: 22px;
   y: 22px;
 }
 #app-mount .wrapper-3t9DeA[style*="32"] svg > svg > rect {
   x: 7.5px;
   y: 5px;
-  stroke: none;
 }
 
 #app-mount .wrapper-3t9DeA > svg > svg > rect {
@@ -67,9 +66,13 @@
   y: 22px !important;
 }
 
-#app-mount .children-rWhLdy > .accountProfileCard-1XCH88 > .userInfo-iCloHO > .avatar-1uQSZT.wrapper-3t9DeA > svg > rect, #app-mount .listAvatar-1BbvHX.wrapper-3t9DeA > svg > rect {
-  width: 20px;
-  height: 20px;
+#app-mount .listAvatar-1BbvHX.wrapper-3t9DeA > svg > rect {
+  width: 12px;
+  height: 12px;
+}
+#app-mount .children-rWhLdy > .accountProfileCard-1XCH88 > .userInfo-iCloHO > .avatar-1uQSZT.wrapper-3t9DeA > svg > rect {
+  width: 18px;
+  height: 18px;
 }
 
 #app-mount .userPopout-xaxa6l .avatarHint-2A3RNb foreignObject {
