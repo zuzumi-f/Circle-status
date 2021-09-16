@@ -78,3 +78,7 @@
 #app-mount .userPopout-xaxa6l .avatarHint-2A3RNb foreignObject {
   -webkit-mask: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik00MCA4MEM2Mi4wOTE0IDgwIDgwIDYyLjA5MTQgODAgNDBDODAgMTcuOTA4NiA2Mi4wOTE0IDAgNDAgMEMxNy45MDg2IDAgMCAxNy45MDg2IDAgNDBDMCA2Mi4wOTE0IDE3LjkwODYgODAgNDAgODBaIiBmaWxsPSJ3aGl0ZSIvPg0KPHJlY3QgeD0iNjAiIHk9IjYwIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHJ4PSIxMCIgZmlsbD0iYmxhY2siLz4NCjwvc3ZnPg0K");
 }
+
+#app-mount .dots-3Bkt3k {
+  display: none;
+}
