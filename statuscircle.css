@@ -62,7 +62,7 @@
   x: 88px !important;
   y: 88px !important;
 }
-#app-mount .avatar-3W3CeO.wrapper-3t9DeA > svg > rect[mask="url(#svg-mask-status-online-mobile)"] {
+#app-mount .avatar-3W3CeO[style*="32"] rect[mask="url(#svg-mask-status-online-mobile)"] {
   y: 22px !important;
 }
 
@@ -81,4 +81,15 @@
 
 #app-mount .dots-3Bkt3k {
   display: none;
+}
+
+/* Status everywhere compatibility */
+#app-mount .wrapper-3t9DeA[style*="40"] rect {
+  width: 12px;
+  height: 12px;
+  x: 28px;
+  y: 28px;
+}
+#app-mount .wrapper-3t9DeA[style*="40"] rect[mask="url(#svg-mask-status-online-mobile)"] {
+  y: 28px !important;
 }
