@@ -1,95 +1,68 @@
+/* status */
+#app-mount .wrapper-3t9DeA[style*="32"] rect[fill="black"]:not([y="2.5"]):not([mask="url(#svg-mask-status-online-mobile)"]) {
+    fill: transparent;
+}
+
+#app-mount .wrapper-3t9DeA[style*="32"] rect[x="22"]:not([mask="url(#svg-mask-status-online-mobile)"]) {
+    mask: none;
+    rx: 6;
+    ry: 6;
+}
+
+#app-mount .wrapper-3t9DeA[style*="80"] svg > svg > rect:not([mask="url(#svg-mask-status-online-mobile)"]) {
+    x: 9px !important;
+    y: 5px !important;
+}
+
+#app-mount .wrapper-3t9DeA[style*="80"] rect[mask="url(#svg-mask-status-online-mobile)"]:not([color="black"]):not([fill="black"]):not([fill="white"]) {
+    width: 22px;
+    height: 33px;
+    x: 57;
+    y: 49;
+}
+
 #app-mount .wrapper-3t9DeA svg {
-  overflow: visible;
-}
-#app-mount .wrapper-3t9DeA svg, #app-mount .wrapper-3t9DeA foreignObject, #app-mount .wrapper-3t9DeA rect {
-  -webkit-mask: none;
-          mask: none;
-}
-#app-mount .wrapper-3t9DeA rect {
-  ry: 50%;
-  rx: 50%;
-}
-#app-mount .wrapper-3t9DeA img {
-  border-radius: 50%;
-}
-  
-#app-mount .wrapper-3t9DeA[style*="32"] rect {
-  width: 10px;
-  height: 10px;
-  x: 22px;
-  y: 22px;
-}
-#app-mount .wrapper-3t9DeA[style*="32"] svg > svg > rect {
-  x: 7.5px;
-  y: 5px;
+    overflow: visible;
 }
 
-#app-mount .wrapper-3t9DeA > svg > svg > rect {
-  x: 7.5px;
-  y: 5px;
-}
-#app-mount .avatar-37jOim.wrapper-3t9DeA > svg > svg > rect {
-  width: 20px;
-  height: 20px;
-  x: 12px;
-  y: 8px;
-}
-#app-mount .avatar-37jOim.wrapper-3t9DeA > svg > rect {
-  width: 20px;
-  height: 20px;
-  x: 60px;
-  y: 60px;
+#app-mount .wrapper-3t9DeA[style*="80"] rect:not([mask="url(#svg-mask-status-online-mobile)"]):not([color="black"]):not([fill="black"]):not([fill="white"]) {
+    mask: none;
+    width: 22px;
+    height: 22px;
+    x: 57;
+    y: 57;
+    rx: 50;
+    ry: 50;
 }
 
-#app-mount .avatar-AvHqJA.wrapper-3t9DeA > svg > svg > rect {
-  x: 18px !important;
-  y: 12px !important;
+#app-mount .wrapper-3t9DeA[style*="120"] svg > svg > rect:not([mask="url(#svg-mask-status-online-mobile)"]) {
+    x: 15px !important;
+    y: 8.5px !important;
 }
 
-#app-mount .wrapper-3t9DeA[style*="120"] .svg-2V3M55 rect {
-  width: 24px;
-  height: 24px;
+#app-mount .wrapper-3t9DeA[style*="120"] rect[mask="url(#svg-mask-status-online-mobile)"]:not([color="black"]):not([fill="black"]):not([fill="white"]) {
+    width: 30px;
+    height: 45px;
+    x: 85;
+    y: 72;
 }
 
-#app-mount .wrapper-3t9DeA > svg > rect[mask="url(#svg-mask-status-online-mobile)"] {
-  y: 22px !important;
-}
-#app-mount .avatar-37jOim.wrapper-3t9DeA > svg > rect[mask="url(#svg-mask-status-online-mobile)"] {
-  x: 60px !important;
-  y: 60px !important;
-}
-#app-mount .avatar-AvHqJA.wrapper-3t9DeA > svg > rect[mask="url(#svg-mask-status-online-mobile)"] {
-  x: 88px !important;
-  y: 88px !important;
-}
-#app-mount .avatar-3W3CeO[style*="32"] rect[mask="url(#svg-mask-status-online-mobile)"] {
-  y: 22px !important;
+#app-mount .wrapper-3t9DeA svg {
+    overflow: visible;
 }
 
-#app-mount .listAvatar-1BbvHX.wrapper-3t9DeA > svg > rect {
-  width: 12px;
-  height: 12px;
-}
-#app-mount .children-rWhLdy > .accountProfileCard-1XCH88 > .userInfo-iCloHO > .avatar-1uQSZT.wrapper-3t9DeA > svg > rect {
-  width: 18px;
-  height: 18px;
-}
-
-#app-mount .userPopout-xaxa6l .avatarHint-2A3RNb foreignObject {
-  -webkit-mask: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik00MCA4MEM2Mi4wOTE0IDgwIDgwIDYyLjA5MTQgODAgNDBDODAgMTcuOTA4NiA2Mi4wOTE0IDAgNDAgMEMxNy45MDg2IDAgMCAxNy45MDg2IDAgNDBDMCA2Mi4wOTE0IDE3LjkwODYgODAgNDAgODBaIiBmaWxsPSJ3aGl0ZSIvPg0KPHJlY3QgeD0iNjAiIHk9IjYwIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHJ4PSIxMCIgZmlsbD0iYmxhY2siLz4NCjwvc3ZnPg0K");
+#app-mount .wrapper-3t9DeA[style*="120"] rect:not([mask="url(#svg-mask-status-online-mobile)"]):not([color="black"]):not([fill="black"]):not([fill="white"]) {
+    mask: none;
+    width: 30px;
+    height: 30px;
+    x: 85;
+    y: 85;
+    rx: 50;
+    ry: 50;
 }
 
-#app-mount .dots-3Bkt3k {
-  display: none;
-}
-
-/* Status everywhere compatibility */
-#app-mount .wrapper-3t9DeA[style*="40"] rect {
-  width: 12px;
-  height: 12px;
-  x: 28px;
-  y: 28px;
-}
-#app-mount .wrapper-3t9DeA[style*="40"] rect[mask="url(#svg-mask-status-online-mobile)"] {
-  y: 28px !important;
+#app-mount .wrapper-3t9DeA[style*="24"] rect[x="16"]:not([mask="url(#svg-mask-status-online-mobile)"]), #app-mount .wrapper-3t9DeA[style*="40"] rect[x="28"]:not([mask="url(#svg-mask-status-online-mobile)"]) {
+    mask: none;
+    rx: 6;
+    ry: 6;
 }
