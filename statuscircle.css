@@ -134,7 +134,7 @@
     y: 27;
 }
 
-#app-mount .wrapper-3t9DeA[style*="40"] rect[fill="white"]:not([y="0"]) {
+#app-mount .wrapper-3t9DeA[style*="40"] rect[fill="white"]:not([y="0"]):not([width="30"]) {
     width: 14px;
     height: 14px;
     x: 8;
