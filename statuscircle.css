@@ -3,6 +3,14 @@
     fill: transparent;
 }
 
+#app-mount .wrapper-3t9DeA svg {
+    overflow: visible;
+}
+
+#app-mount .wrapper-3t9DeA rect {
+    transition: all 0.25s;
+}
+
 #app-mount .wrapper-3t9DeA[style*="32"] rect[x="22"]:not([mask="url(#svg-mask-status-online-mobile)"]) {
     width: 12px;
     height: 12px;
@@ -68,10 +76,6 @@
     height: 33px;
     x: 56.5;
     y: 48.5;
-}
-
-#app-mount .wrapper-3t9DeA svg {
-    overflow: visible;
 }
 
 #app-mount .wrapper-3t9DeA[style*="80"] rect:not([mask="url(#svg-mask-status-online-mobile)"]):not([color="black"]):not([fill="black"]):not([fill="white"]) {
