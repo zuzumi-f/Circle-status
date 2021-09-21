@@ -66,7 +66,7 @@
     y: 16;
 }
 
-#app-mount .wrapper-3t9DeA[style*="80"] svg > svg > rect:not([mask="url(#svg-mask-status-online-mobile)"]) {
+#app-mount .wrapper-3t9DeA[style*="80"] svg > svg > rect:not([mask="url(#svg-mask-status-online-mobile)"]):not([y="52"]):not([fill*="hsl(139, "]) {
     x: 9px !important;
     y: 5px !important;
 }
@@ -78,7 +78,7 @@
     y: 48.5;
 }
 
-#app-mount .wrapper-3t9DeA[style*="80"] rect:not([mask="url(#svg-mask-status-online-mobile)"]):not([color="black"]):not([fill="black"]):not([fill="white"]) {
+#app-mount .wrapper-3t9DeA[style*="80"] rect:not([mask="url(#svg-mask-status-online-mobile)"]):not([color="black"]):not([fill="black"]):not([fill="white"]):not([y="52"]):not([fill*="hsl(139, "]) {
     mask: none;
     width: 22px;
     height: 22px;
@@ -86,6 +86,42 @@
     y: 57;
     rx: 50;
     ry: 50;
+}
+
+#app-mount .wrapper-3t9DeA[style*="80"] rect[height="24"][fill*="hsl(139, "] {
+    height: 36px;
+    y: -6;
+}
+
+#app-mount .wrapper-3t9DeA[style*="80"] rect[height="16"] {
+    width: 22px;
+    height: 22px;
+    x: 9;
+    y: 5;
+    rx: 50;
+    ry: 50;
+}
+
+#app-mount .wrapper-3t9DeA[style*="80"] rect[height="24"] {
+    width: 22px;
+    height: 32px;
+    x: 8.5;
+    y: -4;
+    rx: 4.5;
+    ry: 4.5;
+}
+
+#app-mount .wrapper-3t9DeA[style*="80"] rect[ry="0"] {
+    width: 16px;
+    height: 16px;
+    x: 11.5;
+    y: 1;
+}
+
+#app-mount .wrapper-3t9DeA[style*="80"] circle[r="2"] {
+    transform: scale(1.2);
+    cx: 16;
+    cy: 19;
 }
 
 #app-mount .wrapper-3t9DeA[style*="120"] svg > svg > rect:not([mask="url(#svg-mask-status-online-mobile)"]) {
