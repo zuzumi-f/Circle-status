@@ -6,7 +6,7 @@
     overflow: visible;
 }
 
-#app-mount .wrapper-3t9DeA rect {
+#app-mount .wrapper-3t9DeA rect:not(.pointerEvents-2zdfdO) {
     transition: all 0.25s;
 }
 
