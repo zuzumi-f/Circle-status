@@ -164,6 +164,15 @@
     ry: 50;
 }
 
+#app-mount .wrapper-3t9DeA[style*="120"] rect[y="88"] {
+    width: 32px;
+    height: 32px;
+    x: 84;
+    y: 84;
+    rx: 50;
+    ry: 50;
+}
+
 #app-mount .wrapper-3t9DeA[style*="120"] rect[height="36"][fill*="hsl(139, "] {
     height: 54px;
     y: -8;
