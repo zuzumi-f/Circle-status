@@ -263,3 +263,14 @@
     cx: 11;
     cy: 12;
 }
+
+/* Typing users */
+#app-mount .wrapper-3t9DeA[style*="16"] rect:not([mask="url(#svg-mask-status-online-mobile)"]) {
+    mask: none;
+    rx: 4;
+    ry: 4;
+    width: 7px;
+    height: 7px;
+    x: 9.5;
+    y: 9.5;
+}
