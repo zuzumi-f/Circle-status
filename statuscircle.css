@@ -89,16 +89,26 @@
 
 #app-mount .wrapper-3t9DeA[style*="80"] rect[height="24"][fill*="hsl(139, "] {
     height: 36px;
+    width: 26px;
+    x: 7;
     y: -6;
 }
 
 #app-mount .wrapper-3t9DeA[style*="80"] rect[height="16"] {
     width: 22px;
     height: 22px;
-    x: 9;
-    y: 5;
     rx: 50;
     ry: 50;
+}
+
+#app-mount .wrapper-3t9DeA[style*="80"] rect[height="16"][y="60"] {
+    x: 57;
+    y: 57;
+}
+
+#app-mount .wrapper-3t9DeA[style*="80"] rect[height="16"]:not([y="60"]) {
+    x: 9;
+    y: 5;
 }
 
 #app-mount .wrapper-3t9DeA[style*="80"] rect[height="24"] {
@@ -110,7 +120,7 @@
     ry: 4.5;
 }
 
-#app-mount .wrapper-3t9DeA[style*="80"] rect[ry="0"] {
+#app-mount .wrapper-3t9DeA[style*="80"] rect[ry="0"]:not([y="16"]) {
     width: 16px;
     height: 16px;
     x: 11.5;
