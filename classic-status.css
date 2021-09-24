@@ -65,6 +65,18 @@
     y: 16;
 }
 
+#app-mount .wrapper-3t9DeA[style*="32"] rect[height="10"][x="0"] {
+  width: 27px;
+  height: 12px;
+  x: -1;
+  y: 4;
+}
+
+#app-mount .dots-3Bkt3k {
+  transform: scale(1.1);
+  transform-origin: center;
+}
+
 #app-mount .wrapper-3t9DeA[style*="80"] svg > svg > rect:not([mask="url(#svg-mask-status-online-mobile)"]):not([y="52"]):not([fill*="hsl(139, "]) {
     x: 9px !important;
     y: 5px !important;
