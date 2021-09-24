@@ -1,4 +1,4 @@
-# Circle-status
+# Classic Discord Status
 Make the status just a circle like in Discord 2016
 
 # Friends and member list
