@@ -1,6 +1,18 @@
 # Classic Discord Status
 Make the status just a circle like in Discord 2016
 
+# Imports
+
+Normal
+```css
+@import url("https://zuzumi-f.github.io/classic-discord-status/2016-status.css");
+```
+
+Bigger
+```css
+@import url("https://zuzumi-f.github.io/classic-discord-status/classic-status-bigger.css");
+```
+
 # Friends and member list
 ![5AVMdyuKAb](https://user-images.githubusercontent.com/79029257/134207956-9c0f8ab8-9bd1-4b53-909c-e44a44138d53.gif)
 
