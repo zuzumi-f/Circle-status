@@ -40,19 +40,19 @@
   width: 11px;
   height: 17px;
   y: -0.9;
-  x: 6.7;
+  x: 6.5;
 }
 
 #app-mount .wrapper-3t9DeA[style*="32"] rect[height="7.5"][width="7.5"] {
   width: 8px;
   height: 8px;
-  x: 8.2;
+  x: 8;
   y: 2;
 }
 
 #app-mount .wrapper-3t9DeA[style*="32"] circle[cy="12.5"] {
   cy: 10.8;
-  cx: 10.4;
+  cx: 10;
   transform: scale(1.2);
 }
 
