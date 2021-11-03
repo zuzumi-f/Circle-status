@@ -64,10 +64,10 @@
 }
 
 #app-mount .wrapper-3t9DeA[style*="80"] rect[height="16"][y="60"][fill*="hsl(139, "] {
-  width: 21px;
-  height: 21px;
-  x: 57.5;
-  y: 57.5;
+  width: 20px;
+  height: 20px;
+  x: 58;
+  y: 58;
 }
 
 #app-mount .wrapper-3t9DeA[style*="80"] svg > svg > rect:not([mask="url(#svg-mask-status-online-mobile)"]):not([y="52"]):not([fill*="hsl(139, "]) {
