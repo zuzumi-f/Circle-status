@@ -64,8 +64,10 @@
 }
 
 #app-mount .wrapper-3t9DeA[style*="80"] rect[height="16"][y="60"][fill*="hsl(139, "] {
-  x: 58;
-  y: 58;
+  width: 21px;
+  height: 21px;
+  x: 57.5;
+  y: 57.5;
 }
 
 #app-mount .wrapper-3t9DeA[style*="80"] svg > svg > rect:not([mask="url(#svg-mask-status-online-mobile)"]):not([y="52"]):not([fill*="hsl(139, "]) {
@@ -136,7 +138,7 @@
 
 #app-mount .wrapper-3t9DeA[style*="120"] svg > svg > rect:not([mask="url(#svg-mask-status-online-mobile)"]):not([fill*="hsl(139, "]) {
   x: 15px !important;
-  y: 8.6px !important;
+  y: 9px !important;
 }
 
 #app-mount .wrapper-3t9DeA[style*="120"] rect[mask="url(#svg-mask-status-online-mobile)"]:not([color="black"]):not([fill="black"]):not([fill="white"]) {
@@ -159,8 +161,8 @@
 #app-mount .wrapper-3t9DeA[style*="120"] rect[y="12"] {
   width: 30px;
   height: 30px;
-  x: 14;
-  y: 7.5;
+  x: 15;
+  y: 9;
   rx: 50;
   ry: 50;
 }
