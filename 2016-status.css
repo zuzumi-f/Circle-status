@@ -29,7 +29,7 @@
   ry: 6;
 }
 
-#app-mount .wrapper-1VLyxH[style*="32"] rect[width="25"]:not([y="5"]) {
+#app-mount .wrapper-1VLyxH[style*="32"] rect[width="25"]:not([y="5"]):not([y="22"]) {
   height: 22px;
   width: 32px;
   x: -4;
